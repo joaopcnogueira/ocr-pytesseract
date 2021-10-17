@@ -1,7 +1,7 @@
 # Optimal Character Recognition with Tesseract and Python
 
 
-![apple_support_ocr_doc](images/apple_support_ocr_doc.png)
+![apple_support_ocr_digits](images/apple_support_ocr_digits.png)
 
 
 
